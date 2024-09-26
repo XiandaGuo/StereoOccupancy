@@ -1,1 +1,1 @@
-StereoOccupancy
+StereoOccupancy-test
