@@ -1,0 +1,221 @@
+/mnt/data/home/fuquan.jin/miniconda/envs/triro_optix/lib/python3.9/site-packages/torch/utils/cpp_extension.py:1967: UserWarning: TORCH_CUDA_ARCH_LIST is not set, all archs for visible cards are included for compilation. 
+If this is not desired, please set os.environ['TORCH_CUDA_ARCH_LIST'].
+  warnings.warn(
+[4][DISKCACHE]: Cache hit for key: ptx-30348-keyb699e101bfc6c6a64a2b458fa84af5e6-sm_86-rtc1-drv535.171.04
+
+[4][COMPILER]: 
+[4][COMPILER]: Info: Pipeline statistics
+	module(s)                            :     1
+	entry function(s)                    :     3
+	trace call(s)                        :     1
+	continuation callable call(s)        :     0
+	direct callable call(s)              :     0
+	basic block(s) in entry functions    :     3
+	instruction(s) in entry functions    :   106
+	non-entry function(s)                :     0
+	basic block(s) in non-entry functions:     0
+	instruction(s) in non-entry functions:     0
+	debug information                    :    no
+
+[4][COMPILER]: Info: Pipeline statistics
+	module(s)                            :     1
+	entry function(s)                    :     3
+	trace call(s)                        :     1
+	continuation callable call(s)        :     0
+	direct callable call(s)              :     0
+	basic block(s) in entry functions    :     3
+	instruction(s) in entry functions    :   108
+	non-entry function(s)                :     0
+	basic block(s) in non-entry functions:     0
+	instruction(s) in non-entry functions:     0
+	debug information                    :    no
+
+[4][COMPILER]: Info: Pipeline statistics
+	module(s)                            :     1
+	entry function(s)                    :     3
+	trace call(s)                        :     1
+	continuation callable call(s)        :     0
+	direct callable call(s)              :     0
+	basic block(s) in entry functions    :     3
+	instruction(s) in entry functions    :   210
+	non-entry function(s)                :     0
+	basic block(s) in non-entry functions:     0
+	instruction(s) in non-entry functions:     0
+	debug information                    :    no
+
+[4][COMPILER]: Info: Pipeline statistics
+	module(s)                            :     1
+	entry function(s)                    :     2
+	trace call(s)                        :     1
+	continuation callable call(s)        :     0
+	direct callable call(s)              :     0
+	basic block(s) in entry functions    :     2
+	instruction(s) in entry functions    :   101
+	non-entry function(s)                :     0
+	basic block(s) in non-entry functions:     0
+	instruction(s) in non-entry functions:     0
+	debug information                    :    no
+
+[4][COMPILER]: Info: Pipeline statistics
+	module(s)                            :     1
+	entry function(s)                    :     2
+	trace call(s)                        :     1
+	continuation callable call(s)        :     0
+	direct callable call(s)              :     0
+	basic block(s) in entry functions    :    12
+	instruction(s) in entry functions    :   300
+	non-entry function(s)                :     0
+	basic block(s) in non-entry functions:     0
+	instruction(s) in non-entry functions:     0
+	debug information                    :    no
+
+======
+Loading NuScenes tables for version v1.0-trainval...
+Loading nuScenes-lidarseg...
+32 category,
+8 attribute,
+4 visibility,
+64386 instance,
+12 sensor,
+10200 calibrated_sensor,
+2631083 ego_pose,
+68 log,
+850 scene,
+34149 sample,
+2631083 sample_data,
+1166187 sample_annotation,
+4 map,
+34149 lidarseg,
+Done loading in 34.683 seconds.
+======
+Reverse indexing ...
+Done reverse indexing in 7.0 seconds.
+======
+processing sequecne: 0 done already!
+processing sequecne: 1 done already!
+processing sequecne: 2
+processing sequecne: 3 done already!
+processing sequecne: 4
+read samples/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104147859.pcd.bin cost 0.22675944003276527 s
+points in box cpu cost 0.013218213804066181 s
+tranform cost 0.003436709986999631 s
+next token is bd5296415d764915b7516fcaf108d44f
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104198184.pcd.bin cost 0.2168015311472118 s
+points in box cpu cost 0.0002441462129354477 s
+tranform cost 0.004255193052813411 s
+next token is ffd310db8b424bf39975dc34b678fdf9
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104247955.pcd.bin cost 0.22265083901584148 s
+points in box cpu cost 0.0004091879818588495 s
+tranform cost 0.003306209109723568 s
+next token is 9c8c69e9a9174e65952dc1adbc7445a7
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104298285.pcd.bin cost 0.4815837780479342 s
+points in box cpu cost 0.000320756109431386 s
+tranform cost 0.0039386809803545475 s
+next token is 629f4cbae94b4d65843bc60e2509014a
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104348042.pcd.bin cost 0.17660237895324826 s
+points in box cpu cost 0.00027570314705371857 s
+tranform cost 0.0036004851572215557 s
+next token is e00876c7671d4db7aeb835d8603b9cb4
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104398352.pcd.bin cost 0.014421013882383704 s
+points in box cpu cost 0.0001936920452862978 s
+tranform cost 0.003870213869959116 s
+next token is c3ed1363804e4c65b1a376419a2138ea
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104448133.pcd.bin cost 0.23737770202569664 s
+points in box cpu cost 0.00026366300880908966 s
+tranform cost 0.003895614994689822 s
+next token is 7d15adaeb8e043ff94bfd68950e098c2
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104498432.pcd.bin cost 0.6836207029409707 s
+points in box cpu cost 0.00036185584031045437 s
+tranform cost 0.0034116189926862717 s
+next token is ad54430edb1a49d3ace2199dc9cb23f9
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104548251.pcd.bin cost 0.540384748019278 s
+points in box cpu cost 0.0002796710468828678 s
+tranform cost 0.004242714028805494 s
+next token is bacb051a84a64cd9ad7b84304ba8bd31
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104598531.pcd.bin cost 0.6211666818708181 s
+points in box cpu cost 0.00027966895140707493 s
+tranform cost 0.003887936007231474 s
+next token is da8dde882a674ff6b7d9e383583f2b67
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104648311.pcd.bin cost 0.48917467799037695 s
+points in box cpu cost 0.0003439818974584341 s
+tranform cost 0.003982663853093982 s
+next token is 8075701bddbf455b8ffc4defb0cb9a8d
+read samples/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104698605.pcd.bin cost 0.5010686190798879 s
+points in box cpu cost 0.00030682305805385113 s
+tranform cost 0.0035916268825531006 s
+next token is e3582f61e7824e4495bfe6bd131ee927
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104748401.pcd.bin cost 0.1699734500143677 s
+points in box cpu cost 0.00027445796877145767 s
+tranform cost 0.003840717952698469 s
+next token is c27ac96c5ff04086a23411c9ce0e1061
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104798693.pcd.bin cost 0.18128953105770051 s
+points in box cpu cost 0.0002876832149922848 s
+tranform cost 0.0036043620202690363 s
+next token is e975e89c6981438e9b8fda8a92c9906c
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104848457.pcd.bin cost 0.49385587708093226 s
+points in box cpu cost 0.0003422289155423641 s
+tranform cost 0.0035961500834673643 s
+next token is aab9460c7d0f4bb793d18fa2c40e82c5
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104898777.pcd.bin cost 0.3255910100415349 s
+points in box cpu cost 0.0002901551779359579 s
+tranform cost 0.0039004432037472725 s
+next token is 41d3bdd784254516a89a4e6bdf108097
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104948553.pcd.bin cost 0.3754035390447825 s
+points in box cpu cost 0.0002858468797057867 s
+tranform cost 0.003973332000896335 s
+next token is 902ca342e90a4c5e9c5de4536abc7dd8
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884104998868.pcd.bin cost 0.5287004080601037 s
+points in box cpu cost 0.0002776850014925003 s
+tranform cost 0.0038097009528428316 s
+next token is ea242932fd844c3d96f878e6569bbaea
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105048645.pcd.bin cost 0.4798606240656227 s
+points in box cpu cost 0.0002861849498003721 s
+tranform cost 0.003618324873968959 s
+next token is 51c361635bee41e7b563b8c96c649d6c
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105098395.pcd.bin cost 0.18085459503345191 s
+points in box cpu cost 0.00026740902103483677 s
+tranform cost 0.0034264458809047937 s
+next token is 3ec04088f740432cb25650872f2b8782
+read samples/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105148716.pcd.bin cost 0.5656843238975853 s
+points in box cpu cost 0.0002624629996716976 s
+tranform cost 0.004198326962068677 s
+next token is 606e7eea6f634fefb1a2d6435ad0f15d
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105198493.pcd.bin cost 0.5223695549648255 s
+points in box cpu cost 0.00029605720192193985 s
+tranform cost 0.0035657889675348997 s
+next token is 3985789ec174472db42b67b7e698af07
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105248810.pcd.bin cost 0.197650307090953 s
+points in box cpu cost 0.00024682399816811085 s
+tranform cost 0.0035388520918786526 s
+next token is b3de9520b17b441fa935b566652c6ddd
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105298569.pcd.bin cost 0.4713776770513505 s
+points in box cpu cost 0.00029822997748851776 s
+tranform cost 0.0035485608968883753 s
+next token is 5e05eaf2598d4739b1edbd1901c3e31d
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105348336.pcd.bin cost 0.2361854719929397 s
+points in box cpu cost 0.00023738504387438297 s
+tranform cost 0.00419877702370286 s
+next token is ec22c35de5bc402c9d3ce52a31293d87
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105398660.pcd.bin cost 0.5556773599237204 s
+points in box cpu cost 0.00029090302996337414 s
+tranform cost 0.003993710968643427 s
+next token is b3aa38d5ad9f479a872f71892d0cd7c6
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105448425.pcd.bin cost 1.1542199291288853 s
+points in box cpu cost 0.0002803071402013302 s
+tranform cost 0.003624136094003916 s
+next token is 160b9930f75040068a17522860988a9c
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105498187.pcd.bin cost 0.1737099289894104 s
+points in box cpu cost 0.00022014719434082508 s
+tranform cost 0.003540696809068322 s
+next token is ad85852f33d946babf6640a3b6db7950
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105548523.pcd.bin cost 0.3274956129025668 s
+points in box cpu cost 0.00027990294620394707 s
+tranform cost 0.004005244001746178 s
+next token is b3c666f968ff43e4a8bf86e252f01ae0
+read sweeps/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105598274.pcd.bin cost 0.17992657609283924 s
+points in box cpu cost 0.00026346114464104176 s
+tranform cost 0.0035782030317932367 s
+next token is 4a1664d593db4ae0925bbd3314e74856
+read samples/LIDAR_TOP/n015-2018-07-18-11-18-34+0800__LIDAR_TOP__1531884105648615.pcd.bin cost 0.18437812314368784 s
+points in box cpu cost 0.000260811997577548 s
+tranform cost 0.0038936040364205837 s

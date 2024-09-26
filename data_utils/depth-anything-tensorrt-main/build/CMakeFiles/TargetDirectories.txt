@@ -1,0 +1,3 @@
+/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/depth-anything-tensorrt.dir
+/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/edit_cache.dir
+/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/rebuild_cache.dir
