@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-4TWCxO"
-      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-4TWCxO"
+      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-4TWCxO"
+      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-4TWCxO"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -296,8 +296,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-g1mUEM"
-      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-g1mUEM"
+      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-g1mUEM"
+      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-g1mUEM"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -544,8 +544,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-tnjOZL"
-      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-tnjOZL"
+      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-tnjOZL"
+      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-tnjOZL"
     cmakeVariables:
       CMAKE_C_FLAGS: "-fPIC"
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -586,8 +586,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-fQgABL"
-      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-fQgABL"
+      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-fQgABL"
+      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-fQgABL"
     cmakeVariables:
       CMAKE_C_FLAGS: "-fPIC"
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -624,8 +624,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-rqGHpL"
-      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/depth-anything-tensorrt-main/build/CMakeFiles/CMakeScratch/TryCompile-rqGHpL"
+      source: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-rqGHpL"
+      binary: "/mnt/nas/algorithm/xianda.guo/intern/fuquan.jin/code/gen_depth_from_depthanything/build/CMakeFiles/CMakeScratch/TryCompile-rqGHpL"
     cmakeVariables:
       CMAKE_C_FLAGS: "-fPIC"
       CMAKE_C_FLAGS_DEBUG: "-g"
